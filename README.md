@@ -1,21 +1,20 @@
 <h1 align="center">Prince Benjamin S. Villaruel</h1>
 <p align="center">
-  <em>CPE 031 - Visualizations and Data Analysis</em>
+  <em>CPE 010 - Data Structures and Algorithms</em>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=32&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+Repository!" alt="Typing SVG" />
 </p>
 <br>
 
-> Welcome to my repo for CPE 031: Visualizations and Data Analysis. In this course, I'll be exploring how data can be collected, understood, visualized, and communicated. More than just creating charts, I want to learn how to choose the right visual, design it with purpose, explain insights clearly, and communicate data honestly. Let's turn data into insight with clarity, responsibility, and purpose.
-
+> Welcome to my repo for CPE 010: Data Structures and Algorithms. In this course, programming becomes more strategic. Instead of simply writing code that works, I will learn how to write programs that are organized, efficient, scalable, and appropriate for the problem being solved.   
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=28&pause=100000&color=FFFFFF&background=00000000&center=false&vCenter=true&width=400&height=45&lines=About+Me;&repeat=false" alt="About Me" />
 
 - Student at **Technological Institute of the Philippines (T.I.P.)**
 - Currently in **2nd Year**, taking up **Computer Engineering (CPE)**
-- This repository documents my journey through **CPE 031 - Visualizations and Data Analysis**
+- This repository documents my journey through **CPE 010 - Data Structures and Algorithms**
 
 
 
