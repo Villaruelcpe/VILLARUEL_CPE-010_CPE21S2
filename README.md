@@ -24,12 +24,13 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=28&pause=100000&color=FFFFFF&background=00000000&center=false&vCenter=true&width=500&height=45&lines=About+the+Course;&repeat=false" alt="About the Course" />
 
-- Welcome to **CPE 031: Visualizations and Data Analysis**
-- **Python** is the primary programming language we will be using
-- This course is about transforming data into meaningful visual insights that help people understand, communicate, and make informed decisions
+- Welcome to **CPE 010: Data Structures and Algorithms**
+- **Data Structures as Building Blocks:** I will study how arrays, linked lists, stacks, queues, trees, and graphs help organize data based on how a program needs to access, process, and manage information.
+- **Algorithms as Problem-Solving Strategies:** I will design and compare algorithms for searching, sorting, traversing, and solving problems using different data structures.
+- **Efficiency and Performance:** I will analyze time and space complexity to better understand why one solution may be faster, cleaner, or more suitable than another.
 
 <p align="center">
-  <code>QUESTION</code> ▸ <code>DATA</code> ▸ <code>VISUAL</code> ▸ <code>INSIGHT</code> ▸ <code>DECISION</code>
+  <code>INPUT</code> ▸ <code>STRUCTURE/code> ▸ <code>ALGORITHM</code> ▸ <code>OUTPUT</code> 
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=28&pause=100000&color=FFFFFF&background=00000000&center=false&vCenter=true&width=400&height=45&lines=Contacts;&repeat=false" alt="Contacts" />
