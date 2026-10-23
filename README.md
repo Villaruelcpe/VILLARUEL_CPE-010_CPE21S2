@@ -29,7 +29,7 @@
 - **Efficiency and Performance:** I will analyze time and space complexity to better understand why one solution may be faster, cleaner, or more suitable than another.
 
 <p align="center">
-  <code>INPUT</code> ▸ <code>STRUCTURE/code> ▸ <code>ALGORITHM</code> ▸ <code>OUTPUT</code> 
+  <code>INPUT</code> ▸ <code>STRUCTURE</code> ▸ <code>ALGORITHM</code> ▸ <code>OUTPUT</code> 
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=28&pause=100000&color=FFFFFF&background=00000000&center=false&vCenter=true&width=400&height=45&lines=Contacts;&repeat=false" alt="Contacts" />
